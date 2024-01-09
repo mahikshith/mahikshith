@@ -4,7 +4,7 @@
 - 📫 Reach me through Linkedin - https://www.linkedin.com/in/mahikshith-b-27340b229/
 -  I like playing games such as Plague tale- 1,2 , GOW , Tomb raider-1,2,3, RE-7, Inside. Currently checking out Little Nightmares-1.
 - ⚡ Fun fact: I've mastered the art of writing code so efficient, it once calculated the value of pi so accurately that mathematicians accused it of being irrational. Turns out, my code just has a great sense of humor, much like its creator.
-  Ofcourse I used chatgpt for the above funfact.
+-  Ofcourse I used chatgpt for the above funfact.
 
 <!---
 mahikshith/mahikshith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
