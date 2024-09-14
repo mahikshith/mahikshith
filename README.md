@@ -1,5 +1,5 @@
-- Hi, I’m @mahikshith
--  Interested in Machine_learning, AI.
+- Hi, I’m mahikshith
+-  Interested in Machine_learning, AI, Genai
 -  Masters in C.S with specalization in A.I & M.L
 -  Linkedin - https://www.linkedin.com/in/mahikshith-b-27340b229/
 
