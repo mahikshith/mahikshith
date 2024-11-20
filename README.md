@@ -1,6 +1,6 @@
 - Hi, I’m mahikshith
--  Interested in Machine_learning, AI, Genai
--  Masters in C.S with specalization in A.I & M.L
+-  Data Science, Machine_learning, Deep Learnign , AI, Genai
+-  Masters in Computer Science - specalization in A.I & M.L with 3.9 CGPA
 -  Linkedin - (https://www.linkedin.com/in/mahikshith/)
 
 <!---
