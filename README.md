@@ -1,6 +1,5 @@
-- Hi, I’m mahikshith
+- Hi, I’m Mahikshith
 -  Data Science, Machine_learning, Deep Learnign , AI, Genai
--  Masters in Computer Science - specalization in A.I & M.L with 3.9 GPA
 -  Linkedin - (https://www.linkedin.com/in/mahikshith/)
 
 <!---
